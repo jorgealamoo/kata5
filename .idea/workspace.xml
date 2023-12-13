@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b18db06e-7bee-4721-948e-3d0ff4239658" name="Changes" comment="Class FibonacciCommand">
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b18db06e-7bee-4721-948e-3d0ff4239658" name="Changes" comment="Class Main tested" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702493761817</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Class Main tested">
+      <option name="closed" value="true" />
+      <created>1702494167759</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702494167759</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -89,6 +95,7 @@
     <MESSAGE value="Interface Command" />
     <MESSAGE value="Class FactorialCommand" />
     <MESSAGE value="Class FibonacciCommand" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class FibonacciCommand" />
+    <MESSAGE value="Class Main tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Main tested" />
   </component>
 </project>
